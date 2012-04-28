@@ -1,8 +1,8 @@
-===================
-Extrude and deforms
-===================
+===============================
+Extrude and deforms an svg file
+===============================
 
 - From an svg file.
 - Selection of extrussion deep and steps.
 - Orthogonal or polar deformation.
-- Accepts mathematical functions for deformation using module math.
+- Accepts mathematical functions for deformation using module math sintaxis.

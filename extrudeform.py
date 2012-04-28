@@ -156,8 +156,8 @@ def math_parser(string):
 
 
 # main
-print("Impoting svg file")
-import_svg.load_svg("/home/sio2/projectroom/signature_vases/code/toolbox/files/signature_example1_postinvert_mandel.svg")
+print("Importing svg file")
+import_svg.load_svg("path to svg file to import")
 
 idx = find_object("Curve")
 
